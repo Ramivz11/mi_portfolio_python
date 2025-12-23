@@ -1,0 +1,12 @@
+# --- Archivos de sistema y Entorno ---
+__pycache__/
+*.py[cod]
+.venv
+env/
+venv/
+
+# --- Configuraciones de Editor ---
+.vscode/
+
+# --- Archivos de Datos ---
+historial_precios.csv
